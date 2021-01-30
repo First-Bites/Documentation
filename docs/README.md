@@ -1,3 +1,6 @@
 # First Bites
 
-> Documentation for our MVP. 
+First Bites is a social video e-commerce platform. This 
+- Front end  
+ 
+- Back end 

@@ -1,2 +1,7 @@
-- [Home](/#home)
-- [Introduction](introduction.md#introduction)
+* Getting Started
+
+* Frontend 
+    - [Technologies](frontend-tech.md)
+
+* Backend 
+    - [Technologies](backend-tech.md)
